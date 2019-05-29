@@ -1,0 +1,1 @@
+libusb.d: ../libusb.cpp
